@@ -1,0 +1,32 @@
+@font-face {
+  font-family: orbitron;
+  src: url(../../font/Orbitron-VariableFont_wght.ttf) format("truetype");
+}
+body {
+  background: #49125f;
+}
+
+.card-title {
+  color: #fff;
+  font-family: "Orbitron", sans-serif;
+  font-size: 4rem;
+  position: absolute;
+  top: 35%;
+  display: block;
+  text-align: center;
+  margin: 1rem;
+}
+
+button {
+  font-size: 30px;
+  background: rgb(0, 0, 0);
+  color: #fff;
+  border: 0;
+  border-radius: 4px 6px;
+  margin: 10px;
+  padding: 3px 10px;
+}
+
+.hidden {
+  display: none;
+}/*# sourceMappingURL=style.css.map */
